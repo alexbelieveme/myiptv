@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "1.14",
+  "versionCode": 29,
+  "versionName": "1.15",
   "apk": "MyIPTV.apk",
-  "notes": "Версия для планшетов и телефонов: управление касаниями и свайпами"
+  "notes": "Выбор плейлиста с устройства через окно Android (планшеты, Android 11+)"
 }
